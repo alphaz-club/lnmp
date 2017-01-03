@@ -1,6 +1,8 @@
 # lnmp
 Vagrant box for PHP projects
 
+Deprecated, see https://github.com/dyweb/miemieda
+
 For PHP5.X see [legacy/ubuntu-14.04-PHP5](https://github.com/at15/lnmp/tree/legacy/ubuntu-14.04-PHP5) branch.
 The [feature/php7](https://github.com/at15/lnmp/tree/feature/php7) branch is also deprecated, PHP7 is now in the master branch.
 
